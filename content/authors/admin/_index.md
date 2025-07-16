@@ -57,53 +57,42 @@ education:
     date_start: 2018-09-01
     date_end: 2022-08-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Yunhe Hou](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Toward sustainable and resilient power infrastructure : operation and evaluation strategies under exogenous and endogenous uncertainties_. Supervised by [Prof Yunhe Hou](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Electrical Engineering
+    institution: Huazhong University of Science and Technology
+    date_start: 2014-09-01
+    date_end: 2018-06-30
     summary: |
       GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Postdoctoral Researcher
+    company_name: Lawrence Berkeley National Laboratory
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-03-01
+    date_end: 
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Research Scientist
+    company_name: The University of Hong Kong
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-09-01
+    date_end: '2023-12-01'
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
@@ -183,4 +172,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yujia LI is currently a postdoctoral researcher at the grid integration group (GIG), Lawrence Berkeley National Laboratory (LBNL), USA. She received the Ph.D. degree in Electrical and Electronic Engineering from The University of Hong Kong, Hong Kong, SAR, in 2022, and the B.E. degree in Electrical Engineering and Automation from Huazhong University of Science and Technology, Wuhan, China, in 2018. She was a Postdoctoral Researcher/Research Scientist with The University of Hong Kong from 2022 to 2023. Her research interests include resilient power system operation and planning, renewable-dominated power systems, and EV integration.
